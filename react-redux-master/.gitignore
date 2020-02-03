@@ -1,0 +1,12 @@
+.DS_Store
+.cache
+package-lock.json
+*.log
+node_modules
+assets
+lib
+log
+assets
+coverage
+_book
+.idea
